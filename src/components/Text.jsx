@@ -45,7 +45,7 @@ copyref.current.select()
         <div className='min-h-screen bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 flex items-center justify-center  ' >
             <div className='max-w-3xl w-full md:w-2/3 lg:w-1/2 mx-4 my-8 p-6 bg-white rounded-lg shadow-lg  '  >
 
-                <h1 className='text-3xl font-bold  text-center mb-4 text-gray-500 '  >KinglyWords</h1>
+                <h1 className='text-4xl font-bold  bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 bg-clip-text text-transparent   text-center mb-4 text-gray-500 '  >KINGLYWORDS</h1>
                 <div className='flex flex-col gap-2 ' >
                     <div className='cursor-pointer  flex justify-end ' >
                         <p  onClick={onCopyText}  className="bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 text-white py-2 px-4 rounded" >copy</p>
