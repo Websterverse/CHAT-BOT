@@ -45,7 +45,7 @@ copyref.current.select()
         <div className='min-h-screen bg-gray-100 flex items-center justify-center  ' >
             <div className='max-w-3xl w-full md:w-2/3 lg:w-1/2 mx-4 my-8 p-6 bg-white rounded-lg shadow-lg  '  >
 
-                <h1 className='text-3xl font-bold  text-center mb-4 text-gray-500 '  >AI TEXT GENERATOR </h1>
+                <h1 className='text-3xl font-bold  text-center mb-4 text-gray-500 '  >KinglyWords</h1>
                 <div className='flex flex-col gap-2 ' >
                     <div className='cursor-pointer  flex justify-end ' >
                         <p  onClick={onCopyText}  className="bg-blue-500 px-2 py-2 rounded-md" >copy</p>
